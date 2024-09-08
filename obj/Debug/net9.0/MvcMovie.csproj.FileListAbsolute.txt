@@ -339,3 +339,4 @@ C:\Users\Methas\Desktop\testvs2022\MvcMovie\bin\Debug\net9.0\runtimes\win\lib\ne
 C:\Users\Methas\Desktop\testvs2022\MvcMovie\bin\Debug\net9.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\Methas\Desktop\testvs2022\MvcMovie\obj\Debug\net9.0\MvcMovie.csproj.AssemblyReference.cache
 C:\Users\Methas\Desktop\testvs2022\MvcMovie\obj\Debug\net9.0\MvcMovie.csproj.Up2Date
+C:\Users\Methas\Desktop\testvs2022\MvcMovie\obj\Debug\net9.0\MvcMovie.sourcelink.json
